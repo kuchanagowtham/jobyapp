@@ -1,0 +1,24 @@
+.header-component {
+  background-color: #272727;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-sizing {
+  height: 30px;
+  width: 120px;
+  margin-left: 20px;
+}
+
+.ulcomponent {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-component {
+  margin-right: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}

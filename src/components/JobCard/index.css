@@ -1,0 +1,59 @@
+.job-container {
+  background-color: #7e858e;
+  width: 700px;
+  border-radius: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.logo-img {
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 3px;
+}
+.logo-container {
+  display: flex;
+}
+.role {
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 22px;
+  color: #ffffff;
+}
+.rating {
+  font-size: 15px;
+  color: #ffffff;
+}
+.my-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.location {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.city {
+  margin-right: 30px;
+}
+.package {
+  margin-right: 20px;
+}
+.linebreak {
+  width: 660px;
+  height: 4px;
+  background-color: #ffffff;
+}
+.description-container {
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+.description-heading {
+  font-size: 20px;
+}
